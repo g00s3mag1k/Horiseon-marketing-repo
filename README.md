@@ -2,7 +2,7 @@
 
 ## Description
 
-Debugging the codebase to make sure all the links work and that it follows the accessibility standards making it optimized for search engines. Consolidating and confirming the HTML elements follow a logical structure and are in sequential order that is indepent from styling and positioning.
+Debugging the codebase to make sure all the links work and that it follows the accessibility standards making it optimized for search engines. Consolidating and confirming the HTML elements follow a logical structure and are in sequential order that is independent from styling and positioning.
 
 ## Installation
 
