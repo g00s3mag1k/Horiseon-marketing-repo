@@ -1,5 +1,7 @@
 # Horiseon-marketing-repo
 
+https://g00s3mag1k.github.io/Horiseon-marketing-repo/
+
 ## Description
 
 Debugging the codebase to make sure all the links work and that it follows the accessibility standards making it optimized for search engines. Consolidating and confirming the HTML elements follow a logical structure and are in sequential order that is independent from styling and positioning.
