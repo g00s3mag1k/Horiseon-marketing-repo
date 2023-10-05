@@ -24,7 +24,7 @@ header h1 #seo {
     color: #d9dcd6;
 }
 
-header nav{
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+article {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
